@@ -27,7 +27,7 @@ You're welcome to suggest papers via Pull Request. Use the structure below:
   year={2025},
   ...
 }
-
+```
 ---
 
 ## 🔍 Browse Paper Categories
