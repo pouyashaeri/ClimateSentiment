@@ -17,21 +17,6 @@ This anonymous repository contains a curated list of research papers referenced 
 
 ---
 
-## 📢 Contributions
-
-You're welcome to suggest papers via Pull Request. Use the structure below:
-
-```bibtex
-@article{yourbibkey2025xyz,
-  title={Paper Title},
-  author={Author A and Author B},
-  journal={Journal Name},
-  year={2025},
-  ...
-}
-```
----
-
 ## 🔍 Browse Paper Categories
 
 <details>
@@ -95,4 +80,19 @@ Sentiment models, annotation methods, benchmarks, and BERT/RoBERTa-based LLM app
 You can download or browse the full `.bib` file used for citations in this project:  
 👉 [`climate_sentiment.bib`](./climate_sentiment.bib)
 
+---
+
+## 📢 Contributions
+
+You're welcome to suggest papers via Pull Request. Use the structure below:
+
+```bibtex
+@article{yourbibkey2025xyz,
+  title={Paper Title},
+  author={Author A and Author B},
+  journal={Journal Name},
+  year={2025},
+  ...
+}
+```
 ---
