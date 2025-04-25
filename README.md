@@ -11,6 +11,8 @@ This anonymous repository contains a curated list of research papers referenced 
 - Misinformation and social media
 - Large Language Models in annotation/modeling
 
+![Purpose Overview](./figures/overview.png)
+
 📎 The repository will be updated continuously throughout the review period.
 
 ---
